@@ -1,1 +1,2 @@
 "hello from ran" 
+good bye from ran 
